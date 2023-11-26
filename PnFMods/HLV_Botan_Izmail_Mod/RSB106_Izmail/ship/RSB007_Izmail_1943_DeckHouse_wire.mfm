@@ -1,0 +1,10 @@
+<RSB007_Izmail_1943_DeckHouse_wire.mfm>
+	<fx>	shaders/std_effects/PBS_wire.fx	</fx>
+	<collisionFlags>	0	</collisionFlags>
+	<property>	diffuseMap
+		<Texture>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/ship/RSB007_Izmail_1943_DeckHouse_a.dds	</Texture>
+	</property>
+	<property>	metallicGlossMap
+		<Texture>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/ship/RSB007_Izmail_1943_DeckHouse_mg.dds	</Texture>
+	</property>
+</RSB007_Izmail_1943_DeckHouse_wire.mfm>
