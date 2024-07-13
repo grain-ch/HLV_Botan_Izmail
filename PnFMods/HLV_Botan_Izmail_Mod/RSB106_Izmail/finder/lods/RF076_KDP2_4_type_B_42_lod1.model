@@ -1,7 +1,7 @@
 <RF076_KDP2_4_type_B_42_lod1.model>
-	<castsShadow>	false	</castsShadow>
+	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/finder/lods/RF076_KDP2_4_type_B_42_lod2	</parent>
 	<extent>	8.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/finder/lods/RF076_KDP2_4_type_B_42_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </RF076_KDP2_4_type_B_42_lod1.model>

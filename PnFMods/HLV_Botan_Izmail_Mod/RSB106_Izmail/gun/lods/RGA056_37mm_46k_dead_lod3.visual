@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.1112 0.0000 -0.1112	</min>
-		<max>	0.1112 0.1456 0.1680	</max>
+		<min>	-0.1111 0.0000 -0.1111	</min>
+		<max>	0.1111 0.1455 0.1679	</max>
 	</boundingBox>
 </RGA056_37mm_46k_dead_lod3.visual>

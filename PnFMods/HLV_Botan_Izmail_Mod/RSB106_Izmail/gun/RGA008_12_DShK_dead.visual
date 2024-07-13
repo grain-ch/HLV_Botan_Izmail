@@ -32,7 +32,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-0.0161 -0.0013 -0.0608	</min>
-		<max>	0.0231 0.1076 0.0617	</max>
+		<min>	-0.0152 -0.0013 -0.0608	</min>
+		<max>	0.0231 0.1075 0.0617	</max>
 	</boundingBox>
 </RGA008_12_DShK_dead.visual>

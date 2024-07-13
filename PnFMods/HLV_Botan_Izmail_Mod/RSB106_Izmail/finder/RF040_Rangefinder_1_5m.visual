@@ -42,6 +42,6 @@
 	</renderSet>
 	<boundingBox>
 		<min>	-0.0560 -0.0010 -0.0407	</min>
-		<max>	0.0560 0.1012 0.0232	</max>
+		<max>	0.0560 0.1011 0.0232	</max>
 	</boundingBox>
 </RF040_Rangefinder_1_5m.visual>

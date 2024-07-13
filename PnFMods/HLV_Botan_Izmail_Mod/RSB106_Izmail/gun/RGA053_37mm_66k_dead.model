@@ -1,7 +1,7 @@
 <RGA053_37mm_66k_dead.model>
-	<castsShadow>	false	</castsShadow>
+	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/lods/RGA053_37mm_66k_dead_lod1	</parent>
-	<extent>	3.0000	</extent>
+	<extent>	4.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/RGA053_37mm_66k_dead	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </RGA053_37mm_66k_dead.model>

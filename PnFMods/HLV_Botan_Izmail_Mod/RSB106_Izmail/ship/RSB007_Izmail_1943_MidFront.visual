@@ -354,7 +354,7 @@
 		</geometry>
 	</renderSet>
 	<boundingBox>
-		<min>	-1.0693 -0.6709 -3.1567	</min>
-		<max>	1.0693 2.2253 5.8196	</max>
+		<min>	-1.0688 -0.6706 -3.1551	</min>
+		<max>	1.0688 2.2242 5.8167	</max>
 	</boundingBox>
 </RSB007_Izmail_1943_MidFront.visual>

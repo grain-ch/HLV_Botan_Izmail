@@ -1,7 +1,7 @@
 <RGS143_130mm55_casemate_dead_lod1.model>
 	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/lods/RGS143_130mm55_casemate_dead_lod2	</parent>
-	<extent>	8.0000	</extent>
+	<extent>	12.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/lods/RGS143_130mm55_casemate_dead_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </RGS143_130mm55_casemate_dead_lod1.model>

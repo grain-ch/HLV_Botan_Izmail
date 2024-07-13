@@ -1,7 +1,7 @@
 <RGA008_12_DShK_lod2.model>
-	<castsShadow>	false	</castsShadow>
+	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/lods/RGA008_12_DShK_lod3	</parent>
 	<extent>	6.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/lods/RGA008_12_DShK_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </RGA008_12_DShK_lod2.model>

@@ -1,7 +1,7 @@
 <RF040_Rangefinder_1_5m.model>
-	<castsShadow>	false	</castsShadow>
+	<castsShadow>	true	</castsShadow>
 	<parent>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/finder/lods/RF040_Rangefinder_1_5m_lod1	</parent>
 	<extent>	4.0000	</extent>
 	<nodefullVisual>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/finder/RF040_Rangefinder_1_5m	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
+	<metaData>	Wargaming.net	</metaData>
 </RF040_Rangefinder_1_5m.model>
