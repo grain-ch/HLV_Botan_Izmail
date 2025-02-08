@@ -1,7 +1,6 @@
 <RGA023_21K_45mm.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/lods/RGA023_21K_45mm_lod1	</parent>
-	<extent>	3.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/RGA023_21K_45mm	</nodefullVisual>
+	<visual>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/RGA023_21K_45mm.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </RGA023_21K_45mm.model>

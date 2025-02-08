@@ -2,7 +2,7 @@
 	<fx>	shaders/materials/pbs/propeller_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
-		<Texture>	content/gameplay/common/textures/UK_Disk_2Blade_05_alpha_a.dds	</Texture>
+		<Texture>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/aircraft/UK_Disk_2Blade_05_alpha_a.dds	</Texture>
 	</property>
 	<property>	doubleSided
 		<Bool>	true	</Bool>

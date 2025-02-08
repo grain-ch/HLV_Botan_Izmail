@@ -1,7 +1,6 @@
 <RGS072_100mm_50_Minizini.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/lods/RGS072_100mm_50_Minizini_lod1	</parent>
-	<extent>	2.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/RGS072_100mm_50_Minizini	</nodefullVisual>
+	<visual>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/RGS072_100mm_50_Minizini.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </RGS072_100mm_50_Minizini.model>

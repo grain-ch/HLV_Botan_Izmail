@@ -1,7 +1,6 @@
 <RSB007_Izmail_1943_Bow.model>
-	<castsShadow>	true	</castsShadow>
-	<parent>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/ship/lods/RSB007_Izmail_1943_Bow_lod1	</parent>
-	<extent>	12.0000	</extent>
-	<nodefullVisual>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/ship/RSB007_Izmail_1943_Bow	</nodefullVisual>
+	<visual>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/ship/RSB007_Izmail_1943_Bow.visual	</visual>
+	<animations />
+	<dyes />
 	<metaData>	Wargaming.net	</metaData>
 </RSB007_Izmail_1943_Bow.model>

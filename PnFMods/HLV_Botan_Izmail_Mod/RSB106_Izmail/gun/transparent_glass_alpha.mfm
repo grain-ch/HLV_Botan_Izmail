@@ -2,6 +2,6 @@
 	<fx>	shaders/materials/pbs/glass_material.fx	</fx>
 	<collisionFlags>	0	</collisionFlags>
 	<property>	diffuseMap
-		<Texture>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/ship/transparent_glass_alpha_a.dds	</Texture>
+		<Texture>	PnFMods/HLV_Botan_Izmail_Mod/RSB106_Izmail/gun/transparent_glass_alpha_a.dds	</Texture>
 	</property>
 </transparent_glass_alpha.mfm>
